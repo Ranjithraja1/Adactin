@@ -39,7 +39,8 @@ public static void main(String[] args) throws AWTException {
 				driver.switchTo().window(str);
 			}
 			
-			
+			System.out.println("Ranjith 123");
+			System.out.println("Demo12");
 			
 			
 			

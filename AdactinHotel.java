@@ -22,7 +22,7 @@ public class AdactinHotel {
 
 	public static void main(String[] args) throws IOException, InterruptedException {
 		//WebDriverManager.ChromeDriver().setup();
-		System.setProperty("webdriver.chrome.driver","C:\\Users\\LENOVO\\eclipse-workspace\\ProjectNov11\\src");
+		//System.setProperty("webdriver.chrome.driver","C:\\Users\\LENOVO\\eclipse-workspace\\ProjectNov11\\src");
 
 		WebDriver driver = new ChromeDriver();
 
